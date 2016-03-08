@@ -24,6 +24,7 @@
 **RNAseq**
 
 1. Soneson C, Delorenzi M. (2013) A comparison of methods for differential expression analysis of RNA-seq data. BMC Bioinformatics 14: 91-2105-14-91.
+2. Li, Jun, and Robert Tibshirani. "Finding consistent patterns: a nonparametric approach for identifying differential expression in RNA-Seq data." Statistical methods in medical research 22.5 (2013): 519-536.
 
 **Statistics**
 
