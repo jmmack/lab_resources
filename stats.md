@@ -1,7 +1,8 @@
 ##Some resources about statistics
 
 ######Nature Statistics for Biologists  
-http://www.nature.com/collections/qghhqm/
+http://www.nature.com/collections/qghhqm/  
+
 This is a collection of papers from Nature about statistics in Biology. Very good
 <br /><br />
 
