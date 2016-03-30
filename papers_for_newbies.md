@@ -46,9 +46,8 @@
 
 **Misc**
 
-Hjortrup, Peter B., et al. "Gone fishing in a fluid trial." Critical care and resuscitation: journal of the Australasian Academy of Critical Care Medicine 18.1 (2016): 55-58.
-
-Bennett, Craig M., et al. "Neural correlates of interspecies perspective taking in the post-mortem atlantic salmon: an argument for proper multiple comparisons correction." Journal of Serendipitous and Unexpected Results 1 (2011): 1-5.
+1.Hjortrup, Peter B., et al. "Gone fishing in a fluid trial." Critical care and resuscitation: journal of the Australasian Academy of Critical Care Medicine 18.1 (2016): 55-58.
+2. Bennett, Craig M., et al. "Neural correlates of interspecies perspective taking in the post-mortem atlantic salmon: an argument for proper multiple comparisons correction." Journal of Serendipitous and Unexpected Results 1 (2011): 1-5.
 
 
 **Gloor Lab**
