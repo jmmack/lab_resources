@@ -28,7 +28,8 @@
 
 **Statistics**
 
-1. Cumming G, Fidler F, Vaux DL. (2007) Error bars in experimental biology. J Cell Biol 177: 7-11.
+1. Cumming G, Fidler F, Vaux DL. (2007) Error bars in experimental biology. J Cell Biol 177: 7-11.  
+*This has a lot of good example plots for SD, Variance, CI, etc.*
 2. Nieuwenhuis S, Forstmann BU, Wagenmakers EJ. (2011) Erroneous analyses of interactions in neuroscience: A problem of significance. Nat Neurosci 14: 1105-1107.
 3. Biesecker LG (2013) Hypothesis-generating research and predictive medicine. Genome Res 23(7): 1051-1053.
 4. Knights D, Parfrey LW, Zaneveld J, Lozupone C & Knight R (2011) Human-associated microbial signatures: Examining their predictive value. Cell Host Microbe 10(4): 292-296.
