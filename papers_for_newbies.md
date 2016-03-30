@@ -44,6 +44,13 @@
 1. Ciccarelli FD, Doerks T, von Mering C, Creevey CJ, Snel B, et al. (2006) Toward automatic reconstruction of a highly resolved tree of life. Science 311: 1283-1287.
 - Noble WS. (2009) A quick guide to organizing computational biology projects. PLoS Comput Biol 5: e1000424.
 
+**Misc**
+
+Hjortrup, Peter B., et al. "Gone fishing in a fluid trial." Critical care and resuscitation: journal of the Australasian Academy of Critical Care Medicine 18.1 (2016): 55-58.
+
+Bennett, Craig M., et al. "Neural correlates of interspecies perspective taking in the post-mortem atlantic salmon: an argument for proper multiple comparisons correction." Journal of Serendipitous and Unexpected Results 1 (2011): 1-5.
+
+
 **Gloor Lab**
 
 [Gloor lab publications on Google Scholar](https://scholar.google.ca/citations?hl=en&user=909NxQEAAAAJ&view_op=list_works&sortby=pubdate)
@@ -59,3 +66,5 @@ Fernandes, Andrew D., et al. "ANOVA-like differential expression (ALDEx) analysi
 metatranscriptome
 
 Macklaim, Jean M., et al. "Comparative meta-RNA-seq of the vaginal microbiota and differential expression by Lactobacillus iners in health and dysbiosis." Microbiome 1.1 (2013): 1.
+
+
