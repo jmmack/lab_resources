@@ -51,20 +51,24 @@
 - Bennett, Craig M., et al. "Neural correlates of interspecies perspective taking in the post-mortem atlantic salmon: an argument for proper multiple comparisons correction." Journal of Serendipitous and Unexpected Results 1 (2011): 1-5.
 
 ----------
-**Gloor Lab**
+###Gloor Lab
 
 [Gloor lab publications on Google Scholar](https://scholar.google.ca/citations?hl=en&user=909NxQEAAAAJ&view_op=list_works&sortby=pubdate)
 
-ALDEx2
+**ALDEx2**
 
 Fernandes, Andrew D., et al. "Unifying the analysis of high-throughput sequencing datasets: characterizing RNA-seq, 16S rRNA gene sequencing and selective growth experiments by compositional data analysis." Microbiome 2.1 (2014): 1.
 
-ALDEx
+**ALDEx**
 
 Fernandes, Andrew D., et al. "ANOVA-like differential expression (ALDEx) analysis for mixed population RNA-Seq." PLoS One 8.7 (2013): e67019.
 
-metatranscriptome
+**metatranscriptome**
 
 Macklaim, Jean M., et al. "Comparative meta-RNA-seq of the vaginal microbiota and differential expression by Lactobacillus iners in health and dysbiosis." Microbiome 1.1 (2013): 1.
+
+**Compositional data analysis (CoDa) for sequencing**
+
+Gloor, Gregory B., et al. "It’s all relative: analyzing microbiome data as compositions." Annals of Epidemiology (2016).
 
 
