@@ -52,6 +52,12 @@
 - Sender, Ron, Shai Fuchs, and Ron Milo. **Revised estimates for the number of human and bacteria cells in the body.** PLoS Biology (2016): DOI:10.1371/journal.pbio.1002533.
 
 ----------
+### Blog posts
+On contamination in low DNA abundance samples  
+- http://blog.mothur.org/2014/11/12/TheKitome/  
+- http://phenomena.nationalgeographic.com/2014/11/11/contaminomics-why-some-microbiome-studies-may-be-wrong/
+
+-------
 ###Gloor Lab
 
 [Gloor lab publications on Google Scholar](https://scholar.google.ca/citations?hl=en&user=909NxQEAAAAJ&view_op=list_works&sortby=pubdate)
