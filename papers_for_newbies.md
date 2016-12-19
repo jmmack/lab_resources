@@ -39,6 +39,7 @@
 - Altman, Douglas G., and J. Martin Bland. "Standard deviations and standard errors." Bmj 331.7521 (2005): 903.
 - Halsey, Lewis G., et al. "The fickle P value generates irreproducible results." nature methods 12.3 (2015): 179-185.
 - Blainey, Paul, Martin Krzywinski, and Naomi Altman. "Points of significance: replication." Nature methods 11.9 (2014): 879-880.
+- Weissgerber, Tracey L., et al. "Beyond bar and line graphs: time for a new data presentation paradigm." PLoS Biol 13.4 (2015): e1002128.
 
 #### Bioinformatics/computational biology
 
