@@ -3,6 +3,7 @@
 1. Biesecker LG. (2013) Hypothesis-generating research and predictive medicine. Genome Res 23: 1051-1053.
 2. Heard, Stephen B. "On whimsy, jokes, and beauty: can scientific writing be enjoyed?." Ideas in Ecology and Evolution 7.1 (2014).
 3. Schwartz, Martin A. "The importance of stupidity in scientific research." Journal of Cell Science 121.11 (2008): 1771-1771.
+4. Greenberg, Steven A. "How citation distortions create unfounded authority: analysis of a citation network." Bmj 339 (2009): b2680.
 
 #### Sequencing
 
