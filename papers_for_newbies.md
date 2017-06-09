@@ -27,7 +27,7 @@
 1. Soneson C, Delorenzi M. (2013) A comparison of methods for differential expression analysis of RNA-seq data. BMC Bioinformatics 14: 91-2105-14-91.
 2. Li, Jun, and Robert Tibshirani. "Finding consistent patterns: a nonparametric approach for identifying differential expression in RNA-Seq data." Statistical methods in medical research 22.5 (2013): 519-536.
 
-#### Statistics
+#### Statistics (and data visualization)
 
 1. Cumming G, Fidler F, Vaux DL. (2007) Error bars in experimental biology. J Cell Biol 177: 7-11.  
 *This has a lot of good example plots for SD, Variance, CI, etc.*
@@ -37,21 +37,21 @@
 5. Broadhurst D & Kell D (2006) Statistical strategies for avoiding false discoveries in metabolomics and related experiments. Metabolomics 2(4): 171-196.
 6. Nakagawa S & Cuthill IC (2007) Effect size, confidence interval and statistical significance: A practical guide for biologists. Biol Rev Camb Philos Soc 82(4): 591-605.
 7. Vaux DL, Fidler F & Cumming G (2012) Replicates and repeats—what is the difference and is it significant?. EMBO Rep 13(4): 291-296.
-- Altman, Douglas G., and J. Martin Bland. "Standard deviations and standard errors." Bmj 331.7521 (2005): 903.
-- Halsey, Lewis G., et al. "The fickle P value generates irreproducible results." nature methods 12.3 (2015): 179-185.
-- Blainey, Paul, Martin Krzywinski, and Naomi Altman. "Points of significance: replication." Nature methods 11.9 (2014): 879-880.
-- Weissgerber, Tracey L., et al. "Beyond bar and line graphs: time for a new data presentation paradigm." PLoS Biol 13.4 (2015): e1002128.
+8. Altman, Douglas G., and J. Martin Bland. "Standard deviations and standard errors." Bmj 331.7521 (2005): 903.
+9. Halsey, Lewis G., et al. "The fickle P value generates irreproducible results." nature methods 12.3 (2015): 179-185.
+10. Blainey, Paul, Martin Krzywinski, and Naomi Altman. "Points of significance: replication." Nature methods 11.9 (2014): 879-880.
+11. Weissgerber, Tracey L., et al. "Beyond bar and line graphs: time for a new data presentation paradigm." PLoS Biol 13.4 (2015): e1002128.
 
 #### Bioinformatics/computational biology
 
 1. Ciccarelli FD, Doerks T, von Mering C, Creevey CJ, Snel B, et al. (2006) Toward automatic reconstruction of a highly resolved tree of life. Science 311: 1283-1287.
-- Noble WS. (2009) A quick guide to organizing computational biology projects. PLoS Comput Biol 5: e1000424.
+1. Noble WS. (2009) A quick guide to organizing computational biology projects. PLoS Comput Biol 5: e1000424.
 
 #### Misc
 
 1. Hjortrup, Peter B., et al. "Gone fishing in a fluid trial." Critical care and resuscitation: journal of the Australasian Academy of Critical Care Medicine 18.1 (2016): 55-58.
-- Bennett, Craig M., et al. "Neural correlates of interspecies perspective taking in the post-mortem atlantic salmon: an argument for proper multiple comparisons correction." Journal of Serendipitous and Unexpected Results 1 (2011): 1-5.
-- Sender, Ron, Shai Fuchs, and Ron Milo. **Revised estimates for the number of human and bacteria cells in the body.** PLoS Biology (2016): DOI:10.1371/journal.pbio.1002533.
+1. Bennett, Craig M., et al. "Neural correlates of interspecies perspective taking in the post-mortem atlantic salmon: an argument for proper multiple comparisons correction." Journal of Serendipitous and Unexpected Results 1 (2011): 1-5.
+1. Sender, Ron, Shai Fuchs, and Ron Milo. **Revised estimates for the number of human and bacteria cells in the body.** PLoS Biology (2016): DOI:10.1371/journal.pbio.1002533.
 
 ----------
 ### Blog posts
