@@ -82,11 +82,8 @@ Macklaim, Jean M., et al. "Comparative meta-RNA-seq of the vaginal microbiota an
 
 Gloor, Gregory B., et al. "It’s all relative: analyzing microbiome data as compositions." Annals of Epidemiology (2016).
 
-Fernandes, A. D., Vu, M. T., Edward, L. M., Macklaim, J. M., & Gloor, G. B. (2018). A reproducible effect size is more useful than an irreproducible hypothesis test to analyze high throughput sequencing datasets. arXiv preprint arXiv:1809.02623.
-Chicago	
+Fernandes, A. D., Vu, M. T., Edward, L. M., Macklaim, J. M., & Gloor, G. B. (2018). A reproducible effect size is more useful than an irreproducible hypothesis test to analyze high throughput sequencing datasets. arXiv preprint arXiv:1809.02623.	
 
-Macklaim, J. M., & Gloor, G. B. (2018). From RNA-seq to Biological Inference: Using Compositional Data Analysis in Meta-Transcriptomics. In Microbiome Analysis (pp. 193-213). Humana Press, New York, NY.
-Chicago	
+Macklaim, J. M., & Gloor, G. B. (2018). From RNA-seq to Biological Inference: Using Compositional Data Analysis in Meta-Transcriptomics. In Microbiome Analysis (pp. 193-213). Humana Press, New York, NY.	
 
 Gloor, G. B., Macklaim, J. M., Pawlowsky-Glahn, V., & Egozcue, J. J. (2017). Microbiome datasets are compositional: and this is not optional. Frontiers in microbiology, 8, 2224.
-Chicago
